@@ -8,8 +8,7 @@
 // run with
 // gcc Dataset2.c
 // ./a.exe
-// Generates a file called Dataset2.txt with values x1,y1 as asked
-// in order to create dataset s2
+// Generates a file called Dataset2.txt with values x1,y1
 
 // array to hold 900 examples
 double examples[EXAMPLES][2];
