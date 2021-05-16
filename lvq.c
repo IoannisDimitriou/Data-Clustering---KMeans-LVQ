@@ -1,7 +1,3 @@
-// Ioannis Dimitriou, 3214, cs03214@uoi.gr
-// Nikoleta-Dimitra Bena, 3289, cs03289@uoi.gr
-// Serafeim-Ilias Antoniou, 2640, cs02640@uoi.gr
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
